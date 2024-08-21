@@ -1,6 +1,6 @@
 # Prompt-Guided Image-Adaptive Neural Implicit Lookup Tables for Interpretable Image Enhancement
 
-This is the official implementation of the paper in ACM Multimedia 2024.
+This is the official implementation of the paper in ACM Multimedia 2024. [[paper](https://arxiv.org/abs/2408.11055)]
 
 <p align="left">
 <img src="resources/overview.png" width="875px">
